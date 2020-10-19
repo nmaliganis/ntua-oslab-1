@@ -1,3 +1,3 @@
-chmod 000 .hello_there
+chmod -w .hello_there
 
 ./riddle
